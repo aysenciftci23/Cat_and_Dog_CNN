@@ -1,7 +1,7 @@
 # Cat_and_Dog_CNN
 
 Bu proje, **Convolutional Neural Network (CNN)** kullanılarak kedi ve köpek görsellerinin sınıflandırılmasını amaçlamaktadır.  
-Proje Global AI Hub bootcamp kapsamında geliştirilmiştir.
+Proje Akbank Derin Öğrenme Bootcamp: Yeni Nesil Proje Kampı kapsamında geliştirilmiştir.
 ---
 ##  Veri Seti
 - Kullanılan veri seti: https://www.kaggle.com/datasets/tongpython/cat-and-dog 
