@@ -26,7 +26,7 @@ Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği perfo
 - <img width="723" height="572" alt="image" src="https://github.com/user-attachments/assets/dd5165d3-6bf8-421d-9456-6b83a282b171" />
 ---
 
-## 📊 Sonuçlar
+## Sonuçlar
 
 **Confusion Matrix:**
 <img width="810" height="686" alt="image" src="https://github.com/user-attachments/assets/f775e276-0462-4e48-8906-5605aaee16de" />
@@ -42,7 +42,7 @@ weighted avg       0.49      0.49      0.48      2023
 
 ---
 
-## 🔥 Grad-CAM Analizi
+## Grad-CAM Analizi
 
 Grad-CAM, modelin hangi bölgeleri dikkate alarak karar verdiğini görselleştirmektedir.
 
@@ -56,7 +56,7 @@ Grad-CAM, modelin hangi bölgeleri dikkate alarak karar verdiğini görselleşti
 
 ---
 
-## 💡 Yorumlar
+## Yorumlar
 - Model, temel ayırt edici özellikleri öğrenmiştir ancak doğruluk oranı %46 seviyesinde kalmıştır.
 - Batch sayısı büyüdükçe her güncelleme daha az adım sayısına sahip olduğu için öğrenme durumu daha dalgalı hale gelmiştir.
 - Epoch sayısı çok küçük olduğunda model yeterince öğrenemedi ve hatalı yanıtlar verdi.
@@ -65,15 +65,15 @@ Grad-CAM, modelin hangi bölgeleri dikkate alarak karar verdiğini görselleşti
 
 ---
 
-## 🚀 Gelecek Çalışmalar
+## Gelecek Çalışmalar
 - **Transfer Learning**: VGG16, ResNet, EfficientNet gibi hazır mimariler kullanılabilir.  
 - **Veri Seti**: Daha dengeli ve geniş veri setleri ile performans artırılabilir.  
 - **Deployment**: Streamlit veya Flask ile kullanıcı arayüzü eklenip proje deploy edilebilir.  
 
 ---
 
-## 🔗 Linkler
+## Linkler
   [https://www.kaggle.com/code/aysenciftci/cat-and-dog-cnn/edit](https://www.kaggle.com/code/aysenciftci/cat-and-dog-cnn)
 
 ---
-📌 Lisans: MIT  
+ Lisans: MIT  
