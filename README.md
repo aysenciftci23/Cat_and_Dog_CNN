@@ -33,7 +33,8 @@ Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği perfo
 
 
 **Classification Report:**
-              precision    recall  f1-score   support
+
+                 precision    recall  f1-score   support
               
          Cat       0.48      0.43      0.46      1011
          
@@ -41,9 +42,9 @@ Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği perfo
          
     accuracy                           0.49      2023
     
-   macro avg       0.49      0.49      0.48      2023
+    macro avg       0.49      0.49      0.48      2023
    
-weighted avg       0.49      0.49      0.48      2023
+    weighted avg       0.49      0.49      0.48      2023
 
 ---
 
