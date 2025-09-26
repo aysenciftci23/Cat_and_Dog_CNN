@@ -34,10 +34,15 @@ Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği perfo
 
 **Classification Report:**
               precision    recall  f1-score   support
+              
          Cat       0.48      0.43      0.46      1011
+         
          Dog       0.49      0.54      0.51      1012
+         
     accuracy                           0.49      2023
+    
    macro avg       0.49      0.49      0.48      2023
+   
 weighted avg       0.49      0.49      0.48      2023
 
 ---
@@ -49,6 +54,8 @@ Grad-CAM, modelin hangi bölgeleri dikkate alarak karar verdiğini görselleşti
 Örnek görseller:  
 
 <img width="1117" height="683" alt="image" src="https://github.com/user-attachments/assets/0fb1dd89-be3a-4f6b-b7e7-ad8d80801775" />
+<img width="1104" height="697" alt="image" src="https://github.com/user-attachments/assets/d67072e8-d946-4dee-9e46-a0b992c16d14" />
+
 
 
 - Köpek görsellerinde kafa ve gövde bölgeleri öne çıkmıştır.  
