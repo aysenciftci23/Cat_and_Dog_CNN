@@ -64,7 +64,7 @@ Grad-CAM, modelin hangi bölgeleri dikkate alarak karar verdiğini görselleşti
 ---
 
 ## Yorumlar
-- Model, temel ayırt edici özellikleri öğrenmiştir ancak doğruluk oranı %46 seviyesinde kalmıştır.
+- Model, temel ayırt edici özellikleri öğrenmiştir.
 - Batch sayısı büyüdükçe her güncelleme daha az adım sayısına sahip olduğu için öğrenme durumu daha dalgalı hale gelmiştir.
 - Epoch sayısı çok küçük olduğunda model yeterince öğrenemedi ve hatalı yanıtlar verdi.
 - Epoch sayısı çok büyük olunca program aşırı yavaş çalıştı ve yine hatalı cevap verme oranı arttı.
