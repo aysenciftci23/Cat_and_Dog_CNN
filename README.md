@@ -29,23 +29,22 @@ Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği perfo
 ## Sonuçlar
 
 **Confusion Matrix:**
-<img width="810" height="686" alt="image" src="https://github.com/user-attachments/assets/f775e276-0462-4e48-8906-5605aaee16de" />
+
+<img width="649" height="548" alt="download" src="https://github.com/user-attachments/assets/5552c292-e758-4cf0-b81d-956c30a0e626" />
+
 
 
 **Classification Report:**
 
-                 precision    recall  f1-score   support
-              
-         Cat       0.48      0.43      0.46      1011
-         
-         Dog       0.49      0.54      0.51      1012
-         
-    accuracy                           0.49      2023
-    
-    macro avg       0.49      0.49      0.48      2023
-   
-    weighted avg       0.49      0.49      0.48      2023
+                precision    recall  f1-score   support
 
+        Cat     0.75      0.85      0.79      1011
+       Dog       0.82      0.72      0.77      1012
+
+      accuracy                           0.78      2023
+    macro avg       0.79      0.78      0.78      2023
+    weighted avg       0.79      0.78      0.78      2023
+ 
 ---
 
 ## Grad-CAM Analizi
