@@ -19,12 +19,9 @@ Proje Akbank Derin Öğrenme Bootcamp: Yeni Nesil Proje Kampı kapsamında geli�
 
 Aşağıdaki grafiklerde modelin epoch=50 ve batch=32 boyunca gösterdiği performans yer almaktadır:
 
-- **Model Accuracy**
-- <img width="723" height="575" alt="image" src="https://github.com/user-attachments/assets/93add844-27a8-4090-a703-04cb49261ab0" />
+- **Model Değerlendirilmesi**
+<img width="1489" height="490" alt="download" src="https://github.com/user-attachments/assets/b0de1b04-88b5-4867-9c7d-c93c975772f0" />
 
-- **Model Loss**
-- <img width="723" height="572" alt="image" src="https://github.com/user-attachments/assets/dd5165d3-6bf8-421d-9456-6b83a282b171" />
----
 
 ## Sonuçlar
 
